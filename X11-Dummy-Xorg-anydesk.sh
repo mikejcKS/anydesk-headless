@@ -1,5 +1,5 @@
 #!/bin/bash
-# 🚀🚀🚀 SUPER AWESOME ANYDESK HEADLESS INSTALLER 🚀🚀🚀
+
 # Script to automate AnyDesk installation and configuration on a headless Ubuntu server
 # With added pizzazz and properly configured display for maximum reliability!
 
